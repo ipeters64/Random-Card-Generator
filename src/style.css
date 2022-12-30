@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#card {
+  height: 400px;
+  width: 257px;
+}
+#value {
+  height: 75%;
+}
+
+.lowerSuit {
+  transform: rotate(180deg);
+  display: flex;
+  float: right !important;
+  font-size: 2em;
+}
+.upperSuit {
+  font-size: 2em;
+}
+
+.card-footer {
+  display: flex;
+  float: right;
+}
