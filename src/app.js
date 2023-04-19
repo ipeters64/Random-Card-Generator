@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* rendering the app as a whole */
 import "bootstrap";
 import "./style.css";
 
